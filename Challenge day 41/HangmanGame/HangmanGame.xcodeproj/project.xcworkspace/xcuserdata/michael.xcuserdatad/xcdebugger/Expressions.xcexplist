@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ViewController.loadLevel():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "level">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.check(buttonTitle:answerWordUnrapped:):ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.letterTapped(_:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Array(answerWordUnrapped)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.loadView():ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.loading(action:):ViewController.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

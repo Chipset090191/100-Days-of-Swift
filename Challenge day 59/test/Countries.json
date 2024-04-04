@@ -1,0 +1,98 @@
+[
+    {
+        "country": "Russia",
+        "capital": "Moscow",
+        "size": "17.1 million km²",
+        "population": "143.4 million",
+        "currency": "Ruble",
+        "description": "Russia (Russian: Россия, romanized: Rossiya, [rɐˈsʲijə]), or the Russian Federation, is a country spanning Eastern Europe and Northern Asia. It is the largest country in the world by area, extends across eleven time zones, and shares land boundaries with fourteen countries. It is the world's ninth-most populous country and Europe's most populous country. The country's capital and largest city is Moscow. Saint Petersburg is Russia's second-largest city and 'cultural capital'. Other major urban areas in the country include Novosibirsk, Yekaterinburg, Nizhny Novgorod, Chelyabinsk, Krasnoyarsk, Kazan, Krasnodar and Rostov-on-Don.",
+        "info_test": [
+        {
+            "about_people":"best of the best"
+        },
+        {
+            "language":"Russian"
+        }
+        ]
+    },
+    {
+        "country": "USA",
+        "capital": "Washington, D.C.",
+        "size": "9.8 million km²",
+        "population": "331.9 million",
+        "currency": "Dollar",
+        "description": "The U.S. is a country of 50 states covering a vast swath of North America, with Alaska in the northwest and Hawaii extending the nation’s presence into the Pacific Ocean. Major Atlantic Coast cities are New York, a global finance and culture center, and capital Washington, DC. Midwestern metropolis Chicago is known for influential architecture and on the west coast, Los Angeles' Hollywood is famed for filmmaking."
+    },
+    {
+        "country": "Germany",
+        "capital": "Berlin",
+        "size": "357.592 km²",
+        "population": "83.2 million",
+        "currency": "The Euro",
+        "description": "Germany is a Western European country with a landscape of forests, rivers, mountain ranges and North Sea beaches. It has over 2 millennia of history. Berlin, its capital, is home to art and nightlife scenes, the Brandenburg Gate and many sites relating to WWII. Munich is known for its Oktoberfest and beer halls, including the 16th-century Hofbräuhaus. Frankfurt, with its skyscrapers, houses the European Central Bank."
+    },
+    {
+        "country": "Canada",
+        "capital": "Ottawa",
+        "size": "9.98 million km²",
+        "population": "38.2 million",
+        "currency": "the Canadian dollar",
+        "description": "Canada is a country in North America. Its ten provinces and three territories extend from the Atlantic Ocean to the Pacific Ocean and northward into the Arctic Ocean, making it the world's second-largest country by total area, with the world's longest coastline."
+    },
+    {
+        "country": "Brazil",
+        "capital": "Brasília",
+        "size": "8.51 million km²",
+        "population": "214.3 million",
+        "currency": "The Brazilian real",
+        "description": "Brazil, officially the Federative Republic of Brazil, is the largest country in South America and in Latin America. Brazil is the world's fifth-largest country by area and the seventh most populous. Its capital is Brasília, and its most populous city is São Paulo."
+    },
+    {
+        "country": "Serbia",
+        "capital": "Belgrade",
+        "size": "88.499 km²",
+        "population": "6.8 million",
+        "currency": "The Serbian Dinar",
+        "description": "Serbia, officially the Republic of Serbia, is a landlocked country in Southeast Europe located in the Balkans and the Pannonian Plain. "
+    },
+    {
+        "country": "France",
+        "capital": "Paris",
+        "size": "643.801 km²",
+        "population": "67.7 million",
+        "currency": "The Euro",
+        "description": "France, in Western Europe, encompasses medieval cities, alpine villages and Mediterranean beaches. Paris, its capital, is famed for its fashion houses, classical art museums including the Louvre and monuments like the Eiffel Tower. The country is also renowned for its wines and sophisticated cuisine. Lascaux’s ancient cave drawings, Lyon’s Roman theater and the vast Palace of Versailles attest to its rich history."
+    },
+    {
+        "country": "Spain",
+        "capital": "Madrid",
+        "size": "506.030 km²",
+        "population": "47.4 million",
+        "currency": "The Euro",
+        "description": "Spain, a country on Europe’s Iberian Peninsula, includes 17 autonomous regions with diverse geography and cultures. Capital city Madrid is home to the Royal Palace and Prado museum, housing works by European masters. Segovia has a medieval castle (the Alcázar) and an intact Roman aqueduct. Catalonia’s capital, Barcelona, is defined by Antoni Gaudí’s whimsical modernist landmarks like the Sagrada Família church."
+    },
+    {
+        "country": "Argentina",
+        "capital": "Buenos Aires",
+        "size": "2.78 million km²",
+        "population": "45.8 million",
+        "currency": "The Argentine peso",
+        "description": "Argentina, officially the Argentine Republic, is a country in the southern half of South America. Argentina covers an area of 2,780,400 km², making it the second-largest country in South America after Brazil, the fourth-largest country in the Americas, and the eighth-largest country in the world."
+    },
+    {
+        "country": "Japan",
+        "capital": "Tokyo",
+        "size": "377.973 km²",
+        "population": "125.7 million",
+        "currency": "Japanese Yen",
+        "description": "Japan is an island country in East Asia. It is in the northwest Pacific Ocean and is bordered on the west by the Sea of Japan, extending from the Sea of Okhotsk in the north toward the East China Sea, Philippine Sea, and Taiwan in the south."
+    },
+    {
+        "country": "China",
+        "capital": "Beijing",
+        "size": "377.973 km²",
+        "population": "1.4 billion",
+        "currency": "Chinese Yuan",
+        "description": "China, officially the People's Republic of China, is a country in East Asia. With a population exceeding 1.4 billion, it is the world's second-most-populous country. China spans the equivalent of five time zones and borders fourteen countries by land."
+    }
+    ]

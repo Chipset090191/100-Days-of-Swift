@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B0D91875-275D-48C2-BD4C-E7C78C47FD94"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "033736E0-552D-4971-92C2-C3FBE30EB7FB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project26/GameScene.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "loadlevel()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "033736E0-552D-4971-92C2-C3FBE30EB7FB - b8a59a1bfe06870e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project26.GameScene.loadlevel() -&gt; ()"
+                  moduleName = "Project26"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michael/Programming/100%20days%20with%20Swift%20(UIkit)/Project26/Challenges/Project26/GameScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "1676">
+               </Location>
+               <Location
+                  uuid = "033736E0-552D-4971-92C2-C3FBE30EB7FB - b8a59a1bfe06870e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project26.GameScene.loadlevel() -&gt; ()"
+                  moduleName = "Project26"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michael/Programming/100%20days%20with%20Swift%20(UIkit)/Project26/Challenges/Project26/GameScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "1668">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D89AB836-A00A-404B-BC5B-A69F5DDCE6F3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project26/GameScene.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "289"
+            endingLineNumber = "289"
+            landmarkName = "didBegin(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D89AB836-A00A-404B-BC5B-A69F5DDCE6F3 - 992148d3a8b9889a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project26.GameScene.didBegin(__C.SKPhysicsContact) -&gt; ()"
+                  moduleName = "Project26"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michael/Programming/100%20days%20with%20Swift%20(UIkit)/Project26/Challenges/Project26/GameScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "261"
+                  endingLineNumber = "261"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "D89AB836-A00A-404B-BC5B-A69F5DDCE6F3 - 992148d3a8b9873f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project26.GameScene.didBegin(__C.SKPhysicsContact) -&gt; ()"
+                  moduleName = "Project26"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michael/Programming/100%20days%20with%20Swift%20(UIkit)/Project26/Challenges/Project26/GameScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "266"
+                  endingLineNumber = "266"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "D89AB836-A00A-404B-BC5B-A69F5DDCE6F3 - 992148d3a8b987dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project26.GameScene.didBegin(__C.SKPhysicsContact) -&gt; ()"
+                  moduleName = "Project26"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michael/Programming/100%20days%20with%20Swift%20(UIkit)/Project26/Challenges/Project26/GameScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "267"
+                  endingLineNumber = "267"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "D89AB836-A00A-404B-BC5B-A69F5DDCE6F3 - 992148d3a8b98782"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project26.GameScene.didBegin(__C.SKPhysicsContact) -&gt; ()"
+                  moduleName = "Project26"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michael/Programming/100%20days%20with%20Swift%20(UIkit)/Project26/Challenges/Project26/GameScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "269"
+                  endingLineNumber = "269"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "D89AB836-A00A-404B-BC5B-A69F5DDCE6F3 - 992148d3a8b9852f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project26.GameScene.didBegin(__C.SKPhysicsContact) -&gt; ()"
+                  moduleName = "Project26"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michael/Programming/100%20days%20with%20Swift%20(UIkit)/Project26/Challenges/Project26/GameScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "282"
+                  endingLineNumber = "282"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

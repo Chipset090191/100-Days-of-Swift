@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "ED604595-1657-4C25-A09E-AA82643742D7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "446BD730-4A60-4DA4-91D7-C3878C8781BB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FactsAboutCountries/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "446BD730-4A60-4DA4-91D7-C3878C8781BB - cbf33baf03d46cdf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FactsAboutCountries.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "FactsAboutCountries"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michael/Programming/100%20days%20with%20Swift%20(UIkit)/Challenge%20day%2059/FactsAboutCountries/FactsAboutCountries/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  uuid = "446BD730-4A60-4DA4-91D7-C3878C8781BB - cbf33baf03d46d3e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FactsAboutCountries.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "FactsAboutCountries"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michael/Programming/100%20days%20with%20Swift%20(UIkit)/Challenge%20day%2059/FactsAboutCountries/FactsAboutCountries/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "212">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "77EF7AE5-3F1A-4BCB-A009-A7E0482DBC6F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FactsAboutCountries/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

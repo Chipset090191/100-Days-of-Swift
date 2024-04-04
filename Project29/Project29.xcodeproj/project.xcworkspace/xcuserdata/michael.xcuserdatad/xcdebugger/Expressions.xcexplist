@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "GameScene.didMove(to:):GameScene.swift">
+      </ContextState>
+      <ContextState
+         contextName = "GameScene.bananaHit(building:atPoint:):GameScene.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

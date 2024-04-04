@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "GameScene.checkTouches(_:):GameScene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "firework.color">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameScene.update(_:):GameScene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "fireworks.enumerated().reversed()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
