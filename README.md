@@ -55,7 +55,7 @@ Ok). The most cool projects that`s been in this course and few of them my challe
 <img width="763" alt="2d game-throw banana for iPads" src="https://github.com/Chipset090191/100-Days-of-Swift/assets/65133797/fb14c792-a702-4cb3-9e52-f2b4fc848a3a">
 
 ## My Certificate
-[100DaysOfSwift](https://github.com/Chipset090191/100-Days-of-Swift/blob/main/Day100%20Certificate/Certificate%20UIKit(hackingwithSwift).jpg)
+![100DaysOfSwift](https://github.com/Chipset090191/100-Days-of-Swift/blob/main/Day100%20Certificate/Certificate%20UIKit(hackingwithSwift).jpg)
 
 
 
