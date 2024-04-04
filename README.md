@@ -24,4 +24,5 @@ Ok). The most cool projects that`s been in this course and few of them my challe
 ## Projects + challenges
 
 
-### 1. Challenge of the 41st day. HangMan game
+### 1. Challenge of the 41st day. [HangMan game](https://github.com/Chipset090191/100-Days-of-Swift/tree/main/Challenge%20day%2041)
+<img width="369" alt="Hangman game" src="https://github.com/Chipset090191/100-Days-of-Swift/assets/65133797/a4905186-6965-4e64-a991-395d756c112f">
