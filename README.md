@@ -21,7 +21,7 @@ My telegram channel linked here: **_[Michael_IOS_DEV](https://t.me/Michael_IOS_D
 
 Ok). The most cool projects that`s been in this course and few of them my challenges:
 
-## Projects + challenges
+## Some cool Challenges from the course
 
 
 ### 1. Challenge of the 41st day. [HangMan game](https://github.com/Chipset090191/100-Days-of-Swift/tree/main/Challenge%20day%2041)
@@ -32,6 +32,10 @@ Ok). The most cool projects that`s been in this course and few of them my challe
 
 ### 3. Challenge of the 74th day. [Notes](https://github.com/Chipset090191/100-Days-of-Swift/tree/main/Challenge%20day%2074)
 <img width="367" alt="Notes" src="https://github.com/Chipset090191/100-Days-of-Swift/assets/65133797/e0e8d784-359b-42ea-8f74-cb56d86c6ae1">
+
+
+## Some cool Projects from the course. Paul Hudson was coding and explaining when I was tying to figure out and follow.
+
 
 ### 4. Project8. The App from the course. [Game crossword](https://github.com/Chipset090191/100-Days-of-Swift/tree/main/Project8/Project8)
 <img width="539" alt="Crossword for iPads" src="https://github.com/Chipset090191/100-Days-of-Swift/assets/65133797/deb2343c-dda3-41b9-9b8f-6eeb2b02724a">
@@ -53,6 +57,7 @@ Ok). The most cool projects that`s been in this course and few of them my challe
 
 ### 10. Project26. The App from the course. [Throw the banana](https://github.com/Chipset090191/100-Days-of-Swift/tree/main/Project29)
 <img width="763" alt="2d game-throw banana for iPads" src="https://github.com/Chipset090191/100-Days-of-Swift/assets/65133797/fb14c792-a702-4cb3-9e52-f2b4fc848a3a">
+
 
 ## My Certificate
 ![100DaysOfSwift](https://github.com/Chipset090191/100-Days-of-Swift/blob/main/Day100%20Certificate/Certificate%20UIKit(hackingwithSwift).jpg)
