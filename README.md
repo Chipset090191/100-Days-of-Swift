@@ -30,6 +30,11 @@ Ok). The most cool projects that`s been in this course and few of them my challe
 ### 2. Challenge of the 66th day. [Shooting Gallery](https://github.com/Chipset090191/100-Days-of-Swift/tree/main/Challenge%20day%2066)
 <img width="759" alt="2d game-shooting gallery for iPads" src="https://github.com/Chipset090191/100-Days-of-Swift/assets/65133797/27bda2d3-5059-4817-831d-4bd0ea6a9468">
 
+
+https://github.com/Chipset090191/100-Days-of-Swift/assets/65133797/059f5f23-92c4-43a5-9a5a-6f37dfab322c
+
+
+
 ### 3. Challenge of the 74th day. [Notes](https://github.com/Chipset090191/100-Days-of-Swift/tree/main/Challenge%20day%2074)
 <img width="367" alt="Notes" src="https://github.com/Chipset090191/100-Days-of-Swift/assets/65133797/e0e8d784-359b-42ea-8f74-cb56d86c6ae1">
 
