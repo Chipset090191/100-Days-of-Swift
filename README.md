@@ -34,10 +34,6 @@ Ok). The most cool projects that`s been in this course and few of them my challe
 https://github.com/Chipset090191/100-Days-of-Swift/assets/65133797/bb7dbd4f-bc65-4f1f-9ab2-5ef872c1dd8f
 
 
-
-
-
-
 ### 3. Challenge of the 74th day. [Notes](https://github.com/Chipset090191/100-Days-of-Swift/tree/main/Challenge%20day%2074)
 <img width="367" alt="Notes" src="https://github.com/Chipset090191/100-Days-of-Swift/assets/65133797/e0e8d784-359b-42ea-8f74-cb56d86c6ae1">
 
@@ -63,6 +59,11 @@ Paul Hudson was coding and explaining when I was trying to figure out and follow
 
 ### 9. Project26. The App from the course. [Roll the ball](https://github.com/Chipset090191/100-Days-of-Swift/tree/main/Project26)
 <img width="773" alt="2d game-roll the ball for iPads" src="https://github.com/Chipset090191/100-Days-of-Swift/assets/65133797/24627b06-5f8d-464c-9d2d-d6ad2b07a3bd">
+
+
+https://github.com/Chipset090191/100-Days-of-Swift/assets/65133797/22737c77-3682-4210-9f86-3276f3b4d143
+
+
 
 ### 10. Project26. The App from the course. [Throw the banana](https://github.com/Chipset090191/100-Days-of-Swift/tree/main/Project29)
 <img width="763" alt="2d game-throw banana for iPads" src="https://github.com/Chipset090191/100-Days-of-Swift/assets/65133797/fb14c792-a702-4cb3-9e52-f2b4fc848a3a">
