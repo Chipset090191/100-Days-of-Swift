@@ -31,7 +31,10 @@ Ok). The most cool projects that`s been in this course and few of them my challe
 <img width="759" alt="2d game-shooting gallery for iPads" src="https://github.com/Chipset090191/100-Days-of-Swift/assets/65133797/27bda2d3-5059-4817-831d-4bd0ea6a9468">
 
 
-https://github.com/Chipset090191/100-Days-of-Swift/assets/65133797/059f5f23-92c4-43a5-9a5a-6f37dfab322c
+https://github.com/Chipset090191/100-Days-of-Swift/assets/65133797/bb7dbd4f-bc65-4f1f-9ab2-5ef872c1dd8f
+
+
+
 
 
 
