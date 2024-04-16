@@ -31,7 +31,7 @@ Ok). The most cool projects that`s been in this course and few of them my challe
 <img width="759" alt="2d game-shooting gallery for iPads" src="https://github.com/Chipset090191/100-Days-of-Swift/assets/65133797/27bda2d3-5059-4817-831d-4bd0ea6a9468">
 
 
-https://github.com/Chipset090191/100-Days-of-Swift/assets/65133797/bb7dbd4f-bc65-4f1f-9ab2-5ef872c1dd8f
+https://github.com/Chipset090191/100-Days-of-Swift/assets/65133797/4116d95c-47f3-4170-a243-51c98fb728d4
 
 
 ### 3. Challenge of the 74th day. [Notes](https://github.com/Chipset090191/100-Days-of-Swift/tree/main/Challenge%20day%2074)
@@ -69,8 +69,7 @@ https://github.com/Chipset090191/100-Days-of-Swift/assets/65133797/22737c77-3682
 <img width="763" alt="2d game-throw banana for iPads" src="https://github.com/Chipset090191/100-Days-of-Swift/assets/65133797/fb14c792-a702-4cb3-9e52-f2b4fc848a3a">
 
 
-https://github.com/Chipset090191/100-Days-of-Swift/assets/65133797/bd6f631d-2763-4c05-8328-b05c5d1e8829
-
+https://github.com/Chipset090191/100-Days-of-Swift/assets/65133797/d33ed6fa-5c37-45d4-b81c-80a8a89223ce
 
 
 ## My Certificate
